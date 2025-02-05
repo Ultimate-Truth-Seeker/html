@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bosque Oscuro</title>
+</head>
+<body>
+    <header>
+        <h1>Bosque Oscuro</h1>
+    </header>
+    
+    <main>
+        <article>
+            <h2>Un lugar sombrío</h2>
+            <p>Te adentras en la oscuridad, escuchas ruidos extraños.</p>
+            
+            <figure>
+                <img src="../img/bosque_oscuro.jpg" alt="Bosque oscuro y tenebroso">
+                <figcaption>Un camino incierto entre los árboles.</figcaption>
+            </figure>
+            
+            <aside>
+                <p>Los rumores dicen que criaturas extrañas habitan este bosque.</p>
+            </aside>
+            
+            <details>
+                <summary>¿Qué puedes encontrar aquí?</summary>
+                <p>Algunas personas han desaparecido al entrar en este bosque.</p>
+            </details>
+            
+            <nav>
+                <ul>
+                    <li><a href="cueva_secreta.html">Seguir explorando</a></li>
+                    <li><a href="../index.html">Regresar a la entrada</a></li>
+                </ul>
+            </nav>
+        </article>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 - Aventura en la Fortaleza Olvidada</p>
+    </footer>
+</body>
+</html>
